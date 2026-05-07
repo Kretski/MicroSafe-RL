@@ -10,7 +10,15 @@
 
 It acts as a "hard shield" between your AI policy and your physical actuators, ensuring that every command is validated and corrected in real-time before it can cause hardware damage.
 
----
+## 📦 Getting the Code
+The core implementation of MicroSafe-RL is hosted in a private repository to ensure quality and commercial integrity. 
+
+To gain access to the **MicroSafe-RL-core** (source code, headers, and advanced examples), please:
+1. **Become a Sponsor** at the "Commercial License" tier.
+2. You will receive an **automatic invitation** to the private repository.
+3. Start integrating the safety layer into your hardware!
+
+[👉 Get Access via GitHub Sponsors](https://github.com/sponsors/Kretski)---
 
 ## ⚡ Why MicroSafe-RL?
 

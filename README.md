@@ -64,3 +64,5 @@ void loop() {
 For Python (Gymnasium):Pythonfrom wrappers.microsafe_gym import MicroSafeWrapper
 env = MicroSafeWrapper(gym.make("Pendulum-v1"))
 📁 Project Structure/include - Core C++ implementation (header-only)./python - Gymnasium wrappers and training scripts./tools - microsafe_profiler.py for automatic parameter tuning./examples - Ready-to-run demos for Arduino and ROS2.📄 Academic Work & LicenseThis project is based on the research:Kretski, D. — "Optimal and Stable FDIR Architecture for Autonomous Spacecraft and Critical Systems" — Zenodo, 2026.License: MIT for non-commercial/academic use. For production deployment in safety-critical systems, contact kretski1@gmail.com.
+
+available upon request with benchmark data"
